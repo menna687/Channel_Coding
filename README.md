@@ -1,5 +1,5 @@
 # Digital_Communication_Systems
-University project - Comparison between different coding techniques
+### University project - Comparison between different coding techniques
 
 Implementing encoder and decoder functions for:
 - Repitition code
