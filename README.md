@@ -1,4 +1,4 @@
-# Digital_Communication_Systems
+# Channel Coding - Digital communication systems
 ### University project - Comparison between different coding techniques
 
 Implementing encoder and decoder functions for:
